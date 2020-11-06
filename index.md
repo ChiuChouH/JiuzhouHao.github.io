@@ -170,12 +170,12 @@
 													 <div class="panel-body">
 															<div class="row">
 															<div class="col-md-6">
-																<p>09,2019 - </br> </p>
-																<p>Supervised by </br><a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a> and <a href="https://www.ed.ac.uk/profile/patrick-sturt" target="_blank">Dr Patrick Sturt</a></p>
+																<p>09,2019 - </p>
+																<p>Supervised by <a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a> and <a href="https://www.ed.ac.uk/profile/patrick-sturt" target="_blank">Dr Patrick Sturt</a></p>
 
 															</div>
 															<div class="col-md-6">
-																<p>Working title: </br> The acquisition and processing of Mandarin non-canonical word order in children with and without Specific Language Impairment and Child Heritage Speakers</p>
+																<p>Working title: <br> The acquisition and processing of Mandarin non-canonical word order in children with and without Specific Language Impairment and Child Heritage Speakers</p>
 															</div>
 														</div>
 													 </div>

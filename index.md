@@ -403,7 +403,7 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">What I do?</span>
-							<h2 class="colorlib-heading">My expertise in Experimental Psycholinguistics</h2>
+							<h2 class="colorlib-heading">Experimental <br> Psycholinguistics</h2>
 						</div>
 					</div>
 					<div class="row row-pt-md">
@@ -495,7 +495,7 @@
 							<div class="row">
 
 									<div class="col-lg-2 col-lg-offset-1">
-										<h5>Publication</h5>
+									<h5>Publication</h5>
 									</div>
 									<div class="col-lg-6">
 										<p>Jiuzhou Hao and Vasiliki Chondrogianni (Under review). The acquisition of Mandarin non-canonical word order in Mandarin-English Child Heritage Speakers. <i>to be appeared in Linguistic Approaches to Bilingualism</i><br>
@@ -511,7 +511,7 @@
 										<div class="row">
 
 												<div class="col-lg-2 col-lg-offset-1">
-													<h5>Conference Talks</h5>
+												<h5>Conference Talks</h5>
 												</div>
 												<div class="col-lg-6">
 													<p>Jiuzhou Hao and Vasiliki Chondrogianni (2020). How do Child Heritage Speakers process Mandarin Passives? <i>Linguistics and English Language Postgraduate Conference 2020 (LELPGC20)</i>
@@ -524,13 +524,13 @@
 													<div class="row">
 
 												<div class="col-lg-2 col-lg-offset-1">
-													<h5>Invited Talks</h5>
+												<h5>Invited Talks</h5>
 											  </div>
 											 <div class="col-lg-6">
 											<p>Jiuzhou Hao (2020). Non-canonical word order development and processing in Mandarin-English child heritage speakers <i> at the Bilingualism Research Group, University of Edinburgh</i>
 											</p>
 											</div>
-												<h5>Conference Posters</h5>
+											<h5>Conference Posters</h5>
 											  </div>
 											 <div class="col-lg-6">
 											<p>Jiuzhou Hao (2019). A new syntactic analysis of Mandarin Passives"<i> at the 7th Mancherster Forum in Linguistics (mFiL) 2019</i>

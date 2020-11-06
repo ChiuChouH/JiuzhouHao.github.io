@@ -171,7 +171,7 @@
 															<div class="row">
 															<div class="col-md-6">
 																<p>09,2019 - </p>
-																<p>Supervised by <a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a> and <a href="https://www.ed.ac.uk/profile/patrick-sturt" target="_blank">Dr Patrick Sturt</a></p>
+																<p>Supervised by <br> <a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a> and <a href="https://www.ed.ac.uk/profile/patrick-sturt" target="_blank">Dr Patrick Sturt</a></p>
 
 															</div>
 															<div class="col-md-6">
@@ -193,11 +193,11 @@
 														<div class="row">
 														<div class="col-md-6">
 															<p>09,2018 - 09,2019</br> </p>
-															<p>Supervised by </br> <a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a></p>
+															<p>Supervised by <br> <a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a></p>
 
 														</div>
 														<div class="col-md-6">
-															<p>Dissertation title: </br> Comprehension and production of Mandarin passive in child heritage speakers, The role of morpho-syntactic cue </p>
+															<p>Dissertation title: <br> Comprehension and production of Mandarin passive in child heritage speakers, The role of morpho-syntactic cue </p>
 														</div>
 													</div>
 												 </div>
@@ -215,12 +215,12 @@
 													<div class="panel-body">
 														<div class="row">
 														<div class="col-md-6">
-															<p>09,2014 - 09,2018</br> </p>
-															<p>Supervised by </br> Prof Wei Wang</p>
+															<p>09,2014 - 09,2018<br> </p>
+															<p>Supervised by <br> Prof Wei Wang</p>
 
 														</div>
 														<div class="col-md-6">
-															<p>Dissertation title: </br> A study of Business English neologisms from a morphological perspective </p>
+															<p>Dissertation title: <br> A study of Business English neologisms from a morphological perspective </p>
 														</div>
 													</div>
 											</div>

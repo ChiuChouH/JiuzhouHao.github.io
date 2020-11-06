@@ -192,7 +192,7 @@
 													<div class="panel-body">
 														<div class="row">
 														<div class="col-md-6">
-															<p>09,2018 - 09,2019</br> </p>
+															<p>09,2018 - 09,2019<br> </p>
 															<p>Supervised by <br> <a href="https://www.ed.ac.uk/profile/vicky-chondrogianni" target="_blank">Dr Vicky Chondrogianni</a></p>
 
 														</div>
@@ -227,7 +227,7 @@
 									</div>
 
 
-			</section>
+		
 
 
 			<section class="colorlib-experience" data-section="ri">
@@ -301,7 +301,7 @@
 
 					               <div class="timeline-label">
 					                  <h2>Undergraduate teaching, University of Edinburgh <span>2019- </span></h2>
-					                  <p>Tutor of Linguistics and English Language 1B (Semester 2)</br>
+					                  <p>Tutor of Linguistics and English Language 1B (Semester 2)<br>
 
 															Tutor of Child Bilingualism: Language and Cognition (Semester 2)<br>
 
@@ -367,7 +367,7 @@
 
 					               <div class="timeline-label">
 					                  <h2>Organising Services</h2>
-					                  <p>Chair of Bilingualism Reseach Group, University of Edinburgh <span>2020- </span> </br>
+					                  <p>Chair of Bilingualism Reseach Group, University of Edinburgh <span>2020- </span> <br>
 
 										Member of Linguistic Circle Committee, University of Edinburgh <span>2020- </span> </p>
 					               </div>
@@ -403,7 +403,7 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">What I do?</span>
-							<h2 class="colorlib-heading">Here are some of my expertise in Experimental Psycholinguistics</h2>
+							<h2 class="colorlib-heading">My expertise in Experimental Psycholinguistics</h2>
 						</div>
 					</div>
 					<div class="row row-pt-md">
@@ -498,16 +498,15 @@
 										<h5>Publication</h5>
 									</div>
 									<div class="col-lg-6">
-										<p>Jiuzhou Hao and Vasiliki Chondrogianni (Under review). The acquisition of Mandarin non-canonical word order in Mandarin-English Child Heritage Speakers. <i>to be appeared in Linguistic Approaches to Bilingualism</i></br>
+										<p>Jiuzhou Hao and Vasiliki Chondrogianni (Under review). The acquisition of Mandarin non-canonical word order in Mandarin-English Child Heritage Speakers. <i>to be appeared in Linguistic Approaches to Bilingualism</i><br>
 										<p>Jiuzhou Hao, Vasiliki Chondrogiannia & Patrick Sturt (in prep). Lingering misinterpretation of simple Mandarin non-canonical word orders: An evidence for Good Enough Processing.
 								
 					
-								<p>Jiuzhou Hao (2019). Dylexia in the context of monolingual Mandarin-speaking chilren. <i>Chinese Linguistics</i></br>
+								<p>Jiuzhou Hao (2019). Dylexia in the context of monolingual Mandarin-speaking chilren. <i>Chinese Linguistics</i><br>
 										<p>Jiuzhou Hao (2019). A CCG approach to Mandarin Gappings. <i>Journal of Chinese Languages</i>
 										<p>Jiuzhou Hao, Tsung-Lun Wan, Bettelou Los & Chiawei Wang (in prep). Guanzhong dialect under the influence of Standardised Mandarin.
 										</p>
-									</div>
-								</div>
+								
 									<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 										<div class="row">
 
@@ -545,8 +544,7 @@
 							<p><a href="https://www.ed.ac.uk/profile/chao" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
 						</div>
 					</div>
-				</div>
-			</section>
+				
 
 
 			<section class="colorlib-contact" data-section="contact">
